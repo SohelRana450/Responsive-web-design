@@ -94,12 +94,13 @@ nav ul{
     font-weight: bold; 
     width: 550px;
     height: 170px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 .fresh{
     color: #E95A08;
 }
 .banner-paragraph{
+    margin-top: 10px;
     margin-bottom: 0px;
     font-size: 22px;
     font-weight: 400;
